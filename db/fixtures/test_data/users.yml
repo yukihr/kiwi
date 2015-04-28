@@ -1,0 +1,7 @@
+user_11:
+  id: 11
+  name: yukihr
+  email: yukihr@kotatu.org
+  encrypted_password: $2a$10$dlcWbLlua5Lw/53FacDZfe.izvbnDXoztndTZ8jpkbeo6.VP2mryW
+  role: :editor
+  created_at: 2015-04-28 00:00:00

@@ -1,0 +1,7 @@
+user_1:
+  id: 1
+  name: admin
+  email: kiwi.admin@example.com
+  encrypted_password: $2a$10$Ccj9wnxauhh63JwA2Jk4bO.KMeY5wn3GWgOHZ0mlJsCPa2YRXroLG
+  role: :admin
+  created_at: 2015-04-28 00:00:00
